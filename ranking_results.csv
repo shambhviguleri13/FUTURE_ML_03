@@ -1,0 +1,6 @@
+Rank,Candidate,Final Score (%),Text Similarity (%),Skill Match (%),Matched Skills,Missing Required,Missing Preferred,Extra Skills
+1,Aarav_Sharma,43.8,17.7,70.0,"communication, data visualization, git, pandas, python, scikit-learn, sql, statistics","machine learning, numpy","nlp, tableau","github, matplotlib, mysql, regression, seaborn, teamwork"
+2,Sneha_Kulkarni,32.9,15.7,50.0,"communication, data visualization, pandas, python, sql, tableau","machine learning, numpy, scikit-learn, statistics","git, nlp","data analysis, excel, power bi, problem solving"
+3,Priya_Nair,28.3,11.5,45.0,"machine learning, nlp, numpy, pandas, python","data visualization, scikit-learn, sql, statistics","communication, git, tableau","classification, deep learning, docker, keras, model deployment, nltk, spacy, tensorflow"
+4,Karan_Verma,6.5,3.0,10.0,python,"data visualization, machine learning, numpy, pandas, scikit-learn, sql, statistics","communication, git, nlp, tableau",excel
+5,Rohan_Mehta,5.3,0.5,10.0,python,"data visualization, machine learning, numpy, pandas, scikit-learn, sql, statistics","communication, git, nlp, tableau","aws, django, docker, flask, javascript, leadership, linux, mongodb"
